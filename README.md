@@ -71,4 +71,3 @@ It uses **Convolutional Neural Networks (CNNs)** to classify plant leaves as *he
 - Optimize for **Edge AI / mobile deployment**.  
 
 
-⭐ If you like this project, don’t forget to **star the repo** on GitHub!
